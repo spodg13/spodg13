@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @spodg13
+- I love figuring out what I don't know and how to power daily life more efficiently.  I lean on SQL, VBA, and Python but love learning any languages.
