@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @spodg13
-- I love figuring out what I don't know and how to power through daily life more efficiently.  I lean on Poershell, SQL, VBA, and Python but love learning any languages.
+- I love figuring out what I don't know and how to power through daily life more efficiently.  I lean on Powershell, SQL, VBA, and Python but love learning any languages.
